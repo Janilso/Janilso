@@ -1,7 +1,7 @@
 ## Olá, eu sou o Janilso!
 
 - 🔭 Hoje eu trabalho com frontend
-- 🌱 Estou estudando um pouco sobre backend (Mesmo que já seiba muitos conceitos)
+- 🌱 Estou estudando um pouco sobre backend (Mesmo que já saiba muitos conceitos)
 - 💬 Sou um amante de programação!
 
 <div align="center">
